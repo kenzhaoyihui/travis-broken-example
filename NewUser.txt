@@ -1,3 +1,3 @@
 git add -A
-git commit -m "Test Travis CI"
+git commit -m "Test Travis CI: fix the build"
 git push
